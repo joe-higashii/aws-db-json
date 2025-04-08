@@ -1,0 +1,18 @@
+{
+    "users": [
+      { "id": 1, "name": "Alice", "email": "alice@example.com", "password": "123456" },
+      { "id": 2, "name": "Bob", "email": "bob@example.com", "password": "abcdef" }
+    ],
+    "products": [
+      { "id": 1, "name": "Laptop", "price": 1500 },
+      { "id": 2, "name": "Mouse", "price": 50 }
+    ],
+    "orders": [
+      { "id": 1, "user_id": 1, "order_date": "2025-04-01T10:00:00" }
+    ],
+    "order_items": [
+      { "id": 1, "order_id": 1, "product_id": 1, "quantity": 1 },
+      { "id": 2, "order_id": 1, "product_id": 2, "quantity": 2 }
+    ]
+  }
+  
