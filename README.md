@@ -14,7 +14,7 @@ A API fake permite simular operações CRUD (Create, Read, Update, Delete) nos d
 ## **Diagrama do Banco de Dados**
 Abaixo está o diagrama do banco de dados modelado:
 
-![Image](https://github.com/user-attachments/assets/a124e53e-d381-41c7-8fb4-7c61b5c013e0)
+![Image](https://github.com/user-attachments/assets/b1458cc7-81f3-476e-b952-144984957a93)
 
 ---
 
@@ -129,22 +129,28 @@ Este projeto é apenas para fins educacionais e não possui uma licença especí
 
 ## **Screenshots**
 
-![Image](https://github.com/user-attachments/assets/0428ec3f-fcb7-4ffc-a37e-d28a7655ceb1)
+![Image](https://github.com/user-attachments/assets/47b0503d-e145-414b-8173-5d6fa576238d)
 
 ---
-![Image](https://github.com/user-attachments/assets/0dd69420-4fd9-4c29-bbf8-9c558f7aa04a)
+
+![Image](https://github.com/user-attachments/assets/28161cea-84ec-4c4d-ae74-b9edd5293651)
 
 ---
-![Image](https://github.com/user-attachments/assets/b129a178-ef9c-4abc-a146-c30bfbf861ce)
+
+![Image](https://github.com/user-attachments/assets/2515e591-4db4-4ac7-b8f1-5ddf45dba3ac)
 
 ---
-![Image](https://github.com/user-attachments/assets/84ec5e67-2f99-4ea1-b5d6-80d4757ff7bf)
+
+![Image](https://github.com/user-attachments/assets/d58d2656-8fca-42dd-8975-6928b1407ad8)
 
 ---
-![Image](https://github.com/user-attachments/assets/cfd08ad6-fe0a-4e8c-88b8-66973f8098cb)
+
+![Image](https://github.com/user-attachments/assets/5dad5645-b897-4458-9809-c3ad25a8b109)
 
 ---
-![Image](https://github.com/user-attachments/assets/eccf6992-0b22-4802-a1a8-6d272b466c54)
+
+![Image](https://github.com/user-attachments/assets/1c918fa0-4af9-4c34-9c1f-9b7ac9f2128c)
 
 ---
-![Image](https://github.com/user-attachments/assets/9121cdfb-d868-471c-97ee-3a0baab8b6d6)
+
+![Image](https://github.com/user-attachments/assets/84089056-fac2-42e3-a2b1-8851a198a1ea)
